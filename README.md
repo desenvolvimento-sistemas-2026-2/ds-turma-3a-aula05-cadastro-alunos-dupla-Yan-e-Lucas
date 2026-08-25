@@ -2,14 +2,14 @@
 
 Classroom: Classroom 50
 Assignment: aula05-cadastro-alunos-dupla
-Equipe:
-Turma:
-Integrante 1:
-Integrante 2:
+Equipe: lucas de morais ribeiro e Yan Henirque Rios Góes Santos
+Turma: ciência da computação - turma A - UN - 0726
+Integrante 1:Yan Henirque Rios Góes Santos
+Integrante 2:lucas de morais ribeiro  
 
 ## Divisao de tarefas
-- Integrante 1:
-- Integrante 2:
+- Integrante 1: conferir, adicionar , listarTodos,buscarPorNome e quantidade 
+- Integrante 2: conferir validações de nome , curso e semestre 
 
 ## Commits obrigatorios
 - Integrante 1 fez pelo menos um commit?
