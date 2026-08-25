@@ -2,7 +2,7 @@
 
 Classroom: Classroom 50
 Assignment: aula05-cadastro-alunos-dupla
-Equipe: lucas de morais ribeiro e Yan Henirque Rios Góes Santos
+Equipe: Lucas de Morais Ribeiro e Yan Henirque Rios Góes Santos
 Turma: ciência da computação - turma A - UN - 0726
 Integrante 1:Yan Henirque Rios Góes Santos
 Integrante 2:lucas de morais ribeiro  
